@@ -7,3 +7,5 @@
 #### 4. [Pasatiempos](./practica-1.md#pasatiempos)
 #### 5. [Datos de contacto](./practica-1.md#contacto)
 ---
+
+## [Practica 3](https://github.com/UwUolf/Practica_3)
