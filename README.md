@@ -8,6 +8,8 @@
 #### 5. [Datos de contacto](./practica-1.md#contacto)
 ---
 
-## [Practica 3](https://github.com/UwUolf/Practica_3)
+## [Práctica 3](https://github.com/UwUolf/Practica_3)
 
-## [Practica 5](practica-5.md)
+## [Práctica 5](practica-5.md)
+
+## [Práctica 6](https://github.com/UwUolf/Practica_6.git)
